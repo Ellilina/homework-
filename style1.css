@@ -1,0 +1,21 @@
+body {
+    font-size: 14px;
+}
+
+.heading {
+    color: blueviolet;
+    font-style: oblique;
+    font-size: 36px;
+}
+
+h2 {
+    color: darkcyan;
+    font-size: 16px;
+    font-style: inherit;
+}
+
+.text {
+    font-style: italic;
+    line-height: 1.5em;
+    color: cornflowerblue;
+}
