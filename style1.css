@@ -19,3 +19,29 @@ h2 {
     line-height: 1.5em;
     color: cornflowerblue;
 }
+
+.play {
+    font-style: initial;
+    font-size: 16px;
+}
+
+p {
+    display: inline;
+    background-color: darkgray;
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+    font-style: arial;
+}
+
+.clubs {
+    color: black;
+}
+
+.hearts {
+    color: crimson;
+}
+
+.diams {
+    color: crimson;
+}
